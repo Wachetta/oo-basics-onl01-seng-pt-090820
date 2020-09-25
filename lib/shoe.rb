@@ -40,12 +40,13 @@ class Shoe
 
   def condition
     @condition
-  binding.pry
   end
   
   def cobble(condition = "new")
     puts "Your shoe is as good as new!"
-  end
+  binding.pry
+
+ end
 
 
 end
