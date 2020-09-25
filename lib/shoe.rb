@@ -38,6 +38,7 @@ class Shoe
 
   def condition
     @condition
+  binding.pry
   end
   
   def cobble(condition = "new")
