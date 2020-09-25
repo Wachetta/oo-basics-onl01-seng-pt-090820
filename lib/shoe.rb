@@ -43,7 +43,7 @@ class Shoe
   end
   
   def cobble
-    condtion = "new"
+    conditionw"
     puts "Your shoe is as good as new!"
  #binding.pry
 
